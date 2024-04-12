@@ -1,5 +1,6 @@
 package cordova-os-plugin;
 
+import android.widget.Toast;
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
 
