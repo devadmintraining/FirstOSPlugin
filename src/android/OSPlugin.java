@@ -1,4 +1,4 @@
-package cordova-os-plugin;
+package com.example.osplugin;
 
 import android.widget.Toast;
 import org.apache.cordova.CordovaPlugin;
