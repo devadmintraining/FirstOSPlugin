@@ -1,0 +1,21 @@
+{
+  "name": "osplugin",
+  "version": "1.0.0",
+  "description": "First OS Plugin",
+  "cordova": {
+    "id": "cordova.plugins.OSPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devadmintraining/FirstOSPlugin.git"
+  },
+  "author": "Pushpendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devadmintraining/FirstOSPlugin/issues"
+  },
+  "homepage": "https://github.com/devadmintraining/FirstOSPlugin#readme"
+}
